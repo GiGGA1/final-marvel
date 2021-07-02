@@ -14,6 +14,14 @@
     width: 100%;
     height: 300px;
 }
+.home {
+    position: fixed;
+    left: 5px;
+    bottom: 5px;
+}
+.home-gif {
+    width: 80px;
+}
 .list {
     max-width: 1820px;
     width: 100%;
